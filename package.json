@@ -1,4 +1,14 @@
 {
 "name": "js-to-mlog",
-"version": "1.0.0"
+"version": "1.0.4",
+"description": "A npm that allows you to make code for mlog using Javascript functions.",
+"license": "MIT",
+"repository": "Pietro303HD/mlog",
+"keywords": [
+"mindustry",
+"npm",
+"package",
+"mlog",
+"pietro303hd"
+]
 }

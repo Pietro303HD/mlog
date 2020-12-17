@@ -1,3 +1,7 @@
-const unit = require("./unit");
-
-module.exports = unit;
+"use strict";
+module.exports => {
+Unit: require('./unit'),
+Mlog: (idk) => {
+	return idk;
+	}
+}

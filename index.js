@@ -1,4 +1,3 @@
-module.exports = function mlog(test) {
-  return test;
-};
+const unit = require("./unit");
 
+module.exports = unit;

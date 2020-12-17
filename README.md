@@ -5,14 +5,14 @@ A NPM for making mlog code using Javascript
 
 ### Table of Contents
 
--   [unit][1]
-    -   [Parameters][2]
+-   [unit](1)
+    -   [Parameters](2)
 
 ## unit
 
 Binds a new unit from a type.
 
 ### Parameters                                                                                                        -   `type`
--   `Input` **[string][3]** a Unit Type
+-   `Input` **[string](3)** a Unit Type
                                                            [1]: #unit                                                 
 [2]: #parameters                                                                                                      [3]: https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String
